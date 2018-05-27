@@ -1,4 +1,4 @@
-﻿![R Open Icon](ttps://mran.microsoft.com/assets/img/ClarkHead.png)
+﻿![R Open Icon](https://mran.microsoft.com/assets/img/ClarkHead.png)
 # Microsoft R Open
 
 This chocolatey package is for Microsoft R Open.
