@@ -1,4 +1,6 @@
-﻿![R Open Icon](https://mran.microsoft.com/assets/img/ClarkHead.png)
+https://ci.appveyor.com/api/projects/status/l1j3vshypa374mq0/branch/master?svg=true
+
+![R Open Icon](https://mran.microsoft.com/assets/img/ClarkHead.png)
 # Microsoft R Open
 
 This chocolatey package is for Microsoft R Open.
