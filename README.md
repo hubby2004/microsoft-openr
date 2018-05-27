@@ -13,7 +13,7 @@ There are no prequisistes for installing Microsoft R Open. Just make sure Chocol
 To install Microsoft R Open, run PowerShell as admin and then type the following command:
 
 ```powershell
-choco install microsoft-openr
+choco install microsoft-ropen
 ```
 
 ### Uninstalling
@@ -21,7 +21,7 @@ choco install microsoft-openr
 To uninstall Microsoft R Open, run PowerShell as admin and then type the following command:
 
 ```powershell
-choco uninstall microsoft-openr
+choco uninstall microsoft-ropen
 ```
 
 ## Deployment
