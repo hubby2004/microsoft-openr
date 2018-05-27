@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName = 'microsoft-openr'
+$packageName = 'microsoft-ropen'
 $installerType = 'EXE'
 $file = "msiexec.exe"
 $silentArgs = '/X{E07BD6D0-DF04-43FA-BF11-8EDFBC5E7701} /qn'
