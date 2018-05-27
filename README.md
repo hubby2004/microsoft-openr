@@ -1,4 +1,4 @@
-https://ci.appveyor.com/api/projects/status/l1j3vshypa374mq0/branch/master?svg=true
+[![Build status](https://ci.appveyor.com/api/projects/status/l1j3vshypa374mq0/branch/master?svg=true)](https://ci.appveyor.com/project/hubby2004/microsoft-openr/branch/master)
 
 ![R Open Icon](https://mran.microsoft.com/assets/img/ClarkHead.png)
 # Microsoft R Open
